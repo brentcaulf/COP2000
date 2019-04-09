@@ -1,0 +1,24 @@
+Project 2 Description
+
+Write a C++ program that asks the user to enter their monthly costs for each of the following housing related expenses:
+
+    rent or mortgage payment
+    utilities
+    phone
+    cable
+
+
+The program should then display the total monthly cost of these expenses and the total annual cost of these expenses. 
+
+One example:
+
+Expense Calculator
+
+Enter the monthly amount of your rent or mortgage payment:  $ 1000
+Enter the monthly amount of your utilities payment:  $ 150.25
+Enter the monthly amount of your phone bill:  $ 100.75
+Enter the monthly amount of your cable bill:  $ 85.85
+
+
+Your monthly costs are: $ 1336.85
+Your annual costs are:  $ 16042.20
